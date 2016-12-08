@@ -75,6 +75,12 @@ a {
   margin-top: 0;
   margin-bottom: 0.1rem; }
 
+.project-name:before {
+
+  background-image: url("../images/indicocr_white_240.png");
+
+}
+
 @media screen and (min-width: 64em) {
   .project-name {
     font-size: 3.25rem; } }
